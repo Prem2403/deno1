@@ -202,7 +202,7 @@ export const REVIEWS: Review[] = [
     date: 'October 2026',
     suiteStayed: 'The Royal Belvedere Penthouse',
     comment:
-      'In forty years of traveling to sanctuaries around the globe, L’Écrin stands apart. The rhythm here slows the heartbeat within twenty minutes of arrival. The subtle fragrance of wild thyme and stone, the completely silent pool mornings, and the graciousness of the team are simply peerless.',
+      'In forty years of traveling to sanctuaries around the globe, The Hotel Sunset stands apart. The rhythm here slows the heartbeat within twenty minutes of arrival. The subtle fragrance of wild thyme and stone, the completely silent pool mornings, and the graciousness of the team are simply peerless.',
     avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80',
   },
   {
@@ -288,7 +288,7 @@ export const GALLERY_PHOTOS: GalleryPhoto[] = [
 export const FAQS: FaqItem[] = [
   {
     id: 'faq-1',
-    question: 'How do guests arrive at L’Écrin Sanctuary?',
+    question: 'How do guests arrive at The Hotel Sunset?',
     answer:
       'We arrange private, seamless chauffeured Mercedes-Maybach transfers directly from the international airport (45 minutes) or private jet terminal. For direct aerial arrivals, our on-site helicopter landing pad accommodates private charters directly to the estate.',
     category: 'Arrival & Logistics',

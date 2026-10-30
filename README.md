@@ -1,4 +1,4 @@
-# L’Écrin Sanctuary & Spa
+# THE HOTEL SUNSET
 
 An ultra-luxury coastal haven web application crafted with calm, elegant motion, responsive design, and smooth performance.
 

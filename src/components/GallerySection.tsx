@@ -60,7 +60,7 @@ export const GallerySection: React.FC = () => {
           Visual Anthology
         </span>
         <h2 className="text-3xl sm:text-5xl font-serif text-[#181716]">
-          Atmospheres of L’Écrin
+          Atmospheres of The Hotel Sunset
         </h2>
         <p className="mt-4 text-sm sm:text-base text-[#736e67] font-sans font-light">
           A glimpse into the architectural lines, Aegean light, and timeless Mediterranean textures that frame your stay.

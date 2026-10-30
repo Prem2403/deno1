@@ -156,7 +156,7 @@ export const ContactMap: React.FC = () => {
                 }`}
                 style={{ transitionDelay: '600ms' }}
               >
-                L’Écrin Sanctuary & Spa <span className="text-[#c5a059]">✦</span>
+                THE HOTEL SUNSET <span className="text-[#c5a059]">✦</span>
               </div>
             </div>
 
@@ -307,7 +307,7 @@ export const ContactMap: React.FC = () => {
             </div>
             <div className="flex items-center gap-2">
               <Mail className="w-4 h-4 text-[#c5a059]" />
-              <span>Direct: sanctuaries@lecrin-retreat.com</span>
+              <span>Direct: concierge@thehotelsunset.com</span>
             </div>
           </div>
         </div>

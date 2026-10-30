@@ -20,7 +20,7 @@ export const Footer: React.FC = () => {
             <div className="flex items-center gap-2">
               <Compass className="w-6 h-6 text-[#c5a059]" />
               <span className="font-serif tracking-[0.2em] text-xl font-medium text-white">
-                L’ÉCRIN
+                THE HOTEL SUNSET
               </span>
             </div>
             <p className="text-xs text-white/60 font-sans font-light max-w-sm leading-relaxed">
@@ -104,7 +104,7 @@ export const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-[11px] text-white/40 font-sans gap-4">
           <div>
-            © {new Date().getFullYear()} L’Écrin Sanctuary & Spa. All rights reserved.
+            © {new Date().getFullYear()} The Hotel Sunset. All rights reserved.
           </div>
           <div className="flex gap-6">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>

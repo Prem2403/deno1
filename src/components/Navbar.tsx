@@ -60,7 +60,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBooking, onOpenConcierge }
                     : 'text-xl text-white drop-shadow-sm'
                 }`}
               >
-                L’ÉCRIN
+                THE HOTEL SUNSET
               </span>
               <span
                 className={`text-[9px] uppercase tracking-[0.3em] font-sans -mt-1 transition-colors duration-500 ${

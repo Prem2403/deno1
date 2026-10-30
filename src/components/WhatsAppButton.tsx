@@ -11,7 +11,7 @@ export const WhatsAppButton: React.FC<WhatsAppButtonProps> = ({ onOpenBooking })
   const [messagesList, setMessagesList] = useState<Array<{ sender: 'concierge' | 'guest'; text: string; time: string }>>([
     {
       sender: 'concierge',
-      text: 'Good day. Welcome to L’Écrin Sanctuary. I am Dimitris, your private concierge. How may I orchestrate your arrival or stay today?',
+      text: 'Good day. Welcome to THE HOTEL SUNSET. I am Dimitris, your private concierge. How may I orchestrate your arrival or stay today?',
       time: '12:00 PM',
     },
   ]);
@@ -80,7 +80,7 @@ export const WhatsAppButton: React.FC<WhatsAppButtonProps> = ({ onOpenBooking })
               </div>
               <div>
                 <h4 className="text-sm font-serif font-medium text-white flex items-center gap-1.5">
-                  L’Écrin Concierge Desk
+                  THE HOTEL SUNSET Concierge Desk
                   <ShieldCheck className="w-3.5 h-3.5 text-[#c5a059]" />
                 </h4>
                 <p className="text-[10px] text-green-300 font-sans tracking-wide">
