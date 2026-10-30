@@ -1,0 +1,6 @@
+{
+  "name": "L'Écrin Sanctuary & Spa",
+  "description": "An ultra-luxury coastal sanctuary and boutique resort featuring calm, elegant motion, private pavilions, bespoke wellness, and oceanfront dining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
